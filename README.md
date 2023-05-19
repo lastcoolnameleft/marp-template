@@ -34,3 +34,7 @@ Description
 ---
 
 # Content
+
+*Prerequisite* : To enable GH Actions to auto-publish to GH Pages:
+- In GH Repo, click `Settings` -> `Pages`
+  - Set Source to `GitHub Actions`
