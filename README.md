@@ -1,25 +1,17 @@
 ---
 marp: true
 paginate: true
-style: |
-    section.lead {
-        background-color: #243a5e;
-    }
-    section.lead h1 {
-      color: white;
-    }
-    section.lead h2 {
-      color: white;
-    }
+theme: microsoft
+header: ![](img/microsoft-azure-logo.png)
 
 ---
 <!--
-_class: lead invert
+_class: intro-blue
+_header: ![](img/microsoft-azure-logo-2.png)
 -->
 
+# &nbsp;
 # Intro slide
-
-Description
 
 ### Presented by: Tommy Falgout | Cloud Solution Architect
 
@@ -30,6 +22,16 @@ Description
 - Intro
 - Content
 - Q&A
+
+---
+
+# Me
+
+- Cloud Solution Architect @ Microsoft (ex-Yahoo!, ex-Nortel)
+- Builder of trebuchets (IMDB - Trebuchet Expert)
+- And amazingly enough, Dad (13 yo daughter)
+
+![bg right:50% w:600](https://planomagazine.com/wp-content/uploads/2015/09/SLINGFEST-DFW-TREBUCHET-CATAPULT-PLANO-MAGAZINE-SLIDESHOW.jpg)
 
 ---
 
