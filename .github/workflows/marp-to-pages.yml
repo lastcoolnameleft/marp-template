@@ -40,8 +40,8 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2
 
-      - name: Copy images
-        run: mkdir build && cp -R img build/img
+      - name: Copy images and themes
+        run: mkdir build && cp -R img build/img && cp -R themes build/themes
 
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli:v1.7.0
